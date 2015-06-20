@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EzShop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ltext">Sign Up!!</string>
+    <string name="namet">Enter Your Name</string>
+    <string name="phonet">Enter Phone Number</string>
+    <string name="nonet">Email</string>
+    <string name="or">or</string>
+    <string name="log">login</string>
+    <string name="logi">Login!!</string>
+    <string name="title_activity_pgtwo">pgtwo</string>
+    <string name="title_activity_pgthree">pgthree</string>
+
+</resources>
